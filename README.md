@@ -17,7 +17,7 @@ NumPy Pandas Seaborn Matplotlib Model Training The code for training the classif
 
 ######################################################################
 
-TASK -2 Iris Flower Classification
+TASK -2 IRIS FLOWER CLASSIFICATION MODEL
 
 This repository contains the code for training a machine learning model to classify Iris flowers based on their measurements. The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica, each having distinct measurement characteristics. The goal is to develop a model that can accurately classify Iris flowers based on their measurements.
 

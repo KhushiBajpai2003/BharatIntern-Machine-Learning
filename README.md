@@ -12,7 +12,7 @@ Dependencies
 
 The following Python libraries are used in this project:
 
-NumPy Pandas Seaborn Matplotlib Model Training The code for training the classification model can be found in the House Price Predictor.ipynb Jupyter Notebook. Random Forest model is trained using the House dataset and evaluated for its accuracy Testing After training the model, a new test dataset is used to assess their performance. The test dataset contains different entries for features and it predicted the accurate price for those House, and their accuracy is evaluated. 
+NumPy Pandas Seaborn Matplotlib Model Training The code for training the classification model can be found in the House Price Predictor.ipynb Jupyter Notebook. Linear Regression model is trained using the House dataset and evaluated for its accuracy Testing After training the model, a new test dataset is used to assess their performance. The test dataset contains different entries for features and it predicted the accurate price for those House, and their accuracy is evaluated. 
 
 
 ######################################################################
